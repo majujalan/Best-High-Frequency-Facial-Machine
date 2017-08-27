@@ -5,4 +5,6 @@ Acne is basically a skin issue that appears as small sized bump on the surface o
 To treat acne, there are several options that you can use. You can use acne treatment products that can be found easily on the market these days. You also can use home remedies to treat acne as well. If you want to get the best result, you can use high frequency facial treatment that is available on several beauty clinics these days. This type of treatment can give better results in treating acne. You also can do this treatment on your own home by buying high frequency facial machine.       
 <img src="http://static.wixstatic.com/media/948eb6_065cd0825179494c9b80d4406248e21e.jpg_srz_p_980_457_75_22_0.5_1.2_0_jpg_srz" />
 <br>
-Next: <a href="https://github.com/majujalan/best-laptops-for-kids/blob/master/README.md">Best Laptop for Kids</a>
+Next: <br>
+<a href="https://github.com/majujalan/best-laptops-for-kids/blob/master/README.md">Best Laptop for Kids</a><br>
+<a href="https://github.com/oalahmasbro/best-laptop-backpacks-for-college-students/wiki/Best-Backpacks-for-College">Best Backpacks for College</a>
